@@ -4,5 +4,5 @@ def update_dictionary(a_dictionary, key, value):
         if i == key:
             a_dictionary[key] = value
             flag = 1
-    if flag is not 1:    
+    if flag is not 1:
         a_dictionary[key] = value
