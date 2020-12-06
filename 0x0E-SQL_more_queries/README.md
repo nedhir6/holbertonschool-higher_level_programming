@@ -1,7 +1,5 @@
 # Learning Objectives
 ## General
-
-
     How to create a new MySQL user
     How to manage privileges for a user to a database or table
     What’s a PRIMARY KEY
